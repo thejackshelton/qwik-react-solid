@@ -19,9 +19,16 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
+    "@astrojs/react": "^4.1.2",
+    "@astrojs/solid-js": "^5.0.1",
     "@builder.io/qwik": "^1.12",
     "@qwikdev/astro": "^0.7",
-    "astro": "^5.1"
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "astro": "^5.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "solid-js": "^1.9.3"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.7.0"

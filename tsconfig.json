@@ -5,8 +5,7 @@
     "paths": {
       "@components/*": ["./src/components/*"]
     },
-
-    "jsx": "react-jsx",
-    "jsxImportSource": "@builder.io/qwik"
+    "jsx": "preserve",
+    "jsxImportSource": "solid-js"
   }
 }
